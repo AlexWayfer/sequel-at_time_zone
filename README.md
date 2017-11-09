@@ -7,7 +7,7 @@ A Sequel extension that provides API for `AT TIME ZONE` SQL construct.
 [![Gem Version](https://badge.fury.io/rb/sequel-at_time_zone.svg)](https://badge.fury.io/rb/sequel-at_time_zone)
 [![Build Status](https://travis-ci.org/AlexWayfer/sequel-at_time_zone.svg?branch=master)](https://travis-ci.org/AlexWayfer/sequel-at_time_zone)
 [![codecov](https://codecov.io/gh/AlexWayfer/sequel-at_time_zone/branch/master/graph/badge.svg)](https://codecov.io/gh/AlexWayfer/sequel-at_time_zone)
-[![Maintainability](https://api.codeclimate.com/v1/badges/67143521dcfcf854b40f/maintainability)](https://codeclimate.com/github/AlexWayfer/sequel-at_time_zone/maintainability)
+[![Maintainability](https://api.codeclimate.com/v1/badges/028925c1d38eca615ed7/maintainability)](https://codeclimate.com/github/AlexWayfer/sequel-at_time_zone/maintainability)
 [![Dependency Status](https://gemnasium.com/badges/github.com/AlexWayfer/sequel-at_time_zone.svg)](https://gemnasium.com/github.com/AlexWayfer/sequel-at_time_zone)
 
 ## Installation
