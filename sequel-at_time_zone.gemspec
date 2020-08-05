@@ -22,7 +22,7 @@ Gem::Specification.new do |s|
 	s.add_development_dependency 'minitest-reporters', '~> 1'
 	s.add_development_dependency 'pry', '~> 0'
 	s.add_development_dependency 'pry-byebug', '~> 3.5'
-	s.add_development_dependency 'rake', '~> 12'
+	s.add_development_dependency 'rake', '~> 13'
 	s.add_development_dependency 'rubocop', '~> 0.50'
 	s.add_development_dependency 'simplecov', '~> 0'
 
